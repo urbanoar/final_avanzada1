@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545579238926",
+    "project_id": "finalavanzada-debca",
+    "storage_bucket": "finalavanzada-debca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545579238926:android:35a7844cbe35c8e3a69e5f",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.final_avanzada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545579238926-rqt0t8ln50ic694gs93ijhppd161inuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Y2afEZ92xB_poGTyQ5Bg8EY_zm0mVR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545579238926-rqt0t8ln50ic694gs93ijhppd161inuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
